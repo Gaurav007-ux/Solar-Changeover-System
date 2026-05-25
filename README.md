@@ -18,5 +18,5 @@ A project that automatically switches electrical load between solar power and ma
 - Solar installations
 
 ## Author
-Gaurav Chauhan
+Gaurav Chauhan and 
 Lavi Nain
